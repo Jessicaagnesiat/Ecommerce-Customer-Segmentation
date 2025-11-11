@@ -6,9 +6,9 @@ Performed RFM-based customer segmentation on e-commerce sales data to understand
 Built an interactive Power BI dashboard to visualize customer groups, product performance, and regional trends.
 
 ## ⚙️ Steps Taken
-1. Collected and cleaned 51,290 transaction records from the Kaggle dataset. 
-2. Performed RFM analysis in Python.  
-3. Segmented customers into 9 behavioral groups (e.g., *Champions*, *Loyal*, *At Risk*, *Hibernating*).  
+1. Cleaned and preprocessed data using Python (handled nulls, duplicates, and data types).  
+2. Imported cleaned dataset into Power BI.  
+3. Created RFM columns and customer segmentation logic using DAX formulas.  
 4. Designed a Power BI dashboard to visualize segmentation, sales, and profit trends.  
 5. Derived actionable business insights and recommendations.
 
