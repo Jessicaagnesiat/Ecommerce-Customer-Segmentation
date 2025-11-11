@@ -2,7 +2,7 @@
 *(Final Project – Data Analyst)*
 
 ## 🎯 Project Overview
-![Dashboard Preview](dashboard_-e-commerce_customer_segmentation.png)
+![Dashboard Preview](dashboard_e-commerce_customer_segmentation.jpg)
 Performed RFM-based customer segmentation on e-commerce sales data to understand purchasing behavior and profitability.  
 Built an interactive Power BI dashboard to visualize customer groups, product performance, and regional trends.
 
