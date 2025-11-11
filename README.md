@@ -32,7 +32,7 @@ Built an interactive Power BI dashboard to visualize customer groups, product pe
 
 ## 🔗 Links
 - 💻 **GitHub Repository:** [Jessicaagnesiat – E-Commerce Customer Segmentation](https://github.com/Jessicaagnesiat/Ecommerce-Customer-Segmentation)  
-- 📊 **Power BI Dashboard:** [Jessicaagnesiat - Power BI - E-commerce customer segmentation](https://app.powerbi.com/groups/me/reports/999d9c4e-a77b-4cec-bbe8-dad3b386e82c/32bd473ef1491e817bee?experience=power-bi))  
+- 📊 **Power BI Dashboard:** [Jessicaagnesiat - Power BI - E-commerce customer segmentation](https://app.powerbi.com/groups/me/reports/999d9c4e-a77b-4cec-bbe8-dad3b386e82c/32bd473ef1491e817bee?experience=power-bi) 
 - 📂 **Dataset:** [Kaggle – E-Commerce Website Sales Data](https://www.kaggle.com/datasets/sivm205/e-commerce-website-sales-data)
 
 ---
