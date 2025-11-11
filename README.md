@@ -9,8 +9,8 @@ Built an interactive Power BI dashboard to visualize customer groups, product pe
 1. Cleaned and preprocessed data using Python (handled nulls, duplicates, and data types).  
 2. Imported cleaned dataset into Power BI.  
 3. Created RFM columns and customer segmentation logic using DAX formulas.  
-4. Designed a Power BI dashboard to visualize segmentation, sales, and profit trends.  
-5. Derived actionable business insights and recommendations.
+4. Designed a Power BI dashboard visualizing segmentation, profit, product performance, and shipping cost impact
+5. Generated insights and actionable recommendations to improve marketing and retention strategies
 
 ## 📊 Key Findings
 - Loyal Customers (37.9%) and Champions (19.3%) are the most profitable and active segments.  
